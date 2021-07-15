@@ -1,7 +1,7 @@
 {
-  "name": "Deadly BOT",
-  "description": "The best userbot made by @SAMEER_795. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @deadly_userbot",  
-  "logo": "https://telegra.ph/file/fbb41395fd0feab088922.jpg",
+  "name": "Tandav_X_bot",
+  "description": "The best userbot made by @SAMEER_795. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @TANDAV_USERBOT_SUPPORT",  
+  "logo": "https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/deadly-op-bot/",
-  "website": "https://github.com/sameerpanthi/deadly-op-bot/",
+  "repository": "https://github.com/sameerpanthi/TANDAV_X_BOT/",
+  "website": "https://github.com/sameerpanthi/tandav_x_bot/",
   "success_url": "https://t.me/deadly_bot",
   "env": {
     "ENV": {
@@ -24,27 +24,27 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @SAMEER_795. ",
-      "value": "@Deadly_userbot",
+      "value": "@TANDAV_USERBOT_SUPPORT",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .awake Command.",
-      "value": "🔥 #𝙳𝙴𝙰𝙳𝙻𝚈_𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
+      "value": "🔥 #𝚃𝙰𝙽𝙳𝙰𝚅_𝙱𝙾𝚃_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive and .awake command. Leave blank for default pic.",
-      "value": "https://telegra.ph/file/f992c4914b446609b431a.jpg",
+      "value": "https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗪᗴᗩᗪᒪY ᗷOT😈",
+      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ Tᗩᑎᗪᗩᐯ ᗷOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/fbb41395fd0feab088922.jpg",
+      "value": "https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg",
       "required": false
     },
     "CUSTOM_PMPERMIT": {
