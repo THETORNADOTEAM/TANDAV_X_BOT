@@ -23,7 +23,7 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [『𝚂𝙰𝙼𝙴𝙴𝚁』](https://t.me/OFFICIAL_SAMEER)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [『𝚂𝙰𝙼𝙴𝙴𝚁』](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
 
 ---------------
 
@@ -36,7 +36,7 @@
                
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-[![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/TANDAV_X_BOT)
+[![Deploy](https://telegra.ph/file/553778b6e1e9866c6bf36.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/TANDAV_X_BOT)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
