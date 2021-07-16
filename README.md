@@ -36,7 +36,7 @@
                
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-[![Deploy](https://telegra.ph/file/553778b6e1e9866c6bf36.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/TANDAV_X_BOT)
+[![Deploy](https://telegra.ph/file/553778b6e1e9866c6bf36.jpg)](https://heroku.com/deploy?template=https://github.com/SRIDHAR2021SIDDHARTH/TANDAV_X_BOT)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
@@ -49,7 +49,7 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your Deadly Bot Session Will be saved in your Telegram Saved Message.
 
-[![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+[![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
     
 -------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
