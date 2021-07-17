@@ -47,11 +47,11 @@
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
-- Your Deadly Bot Session Will be saved in your Telegram Saved Message.
+- Your Tandav Bot Session Will be saved in your Telegram Saved Message.
 
 [![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
     
--------------------------------------------------
+------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
 
 - `APP_ID`  =  Get this value from my.telegram.org
