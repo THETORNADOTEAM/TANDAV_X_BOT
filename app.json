@@ -1,6 +1,6 @@
 {
   "name": "Tandav_X_bot",
-  "description": "The best userbot made by @SAMEER_795. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @TANDAV_USERBOT_SUPPORT",  
+  "description": "The best userbot made by @TANDAV_X_MAHADEV_BAM_BHOLE. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @TANDAV_USERBOT_SUPPORT",  
   "logo": "https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg",
     "keywords": [
     "telegram",
@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @SAMEER_795. ",
+      "description": "Fill your Full name or Username like @TANDAV_X_MAHADEV_BAM_BHOLE. ",
       "value": "@TANDAV_USERBOT_SUPPORT",
       "required": false
     },
