@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:alpine
+FROM errorshivansh/TANDAV_X_BOT:latest
 
 #clonning repo 
 RUN git clone https://github.com/sameerpanthi/TANDAV_X_USERBOT.git /root/userbot
