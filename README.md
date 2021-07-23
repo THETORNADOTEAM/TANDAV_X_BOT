@@ -23,7 +23,7 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [『𝚂𝙰𝙼𝙴𝙴𝚁』](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
+## SIDDHARTH : [『SIDDHARTH』](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
 
 ---------------
 
