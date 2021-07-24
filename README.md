@@ -8,7 +8,7 @@
 
 -----
 
-## Status Of Bot 
+## 𝙎𝙏𝘼𝙏𝙐𝙎 𝙊𝙁 𝘽𝙊𝙏 
 
 <p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-op-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-op-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot?"></
 
@@ -23,18 +23,19 @@
 
 ------
 
-## SIDDHARTH : [『SIDDHARTH』](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
+# 𝘾𝙍𝙀𝘼𝙏𝙊𝙍 : (#𝙎𝙄𝘿𝘿𝙃𝘼𝙍𝙏𝙃](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
 
 ---------------
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
+
+## 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋/𝘾𝙃𝘼𝙉𝙉𝙀𝙇:
 
 - <a href="https://t.me/TANDAV_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 - <a href="https://t.me/TANDAV_USERBOT_CHANNEL"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
                
-## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
+## 𝘿𝙀𝙋𝙇𝙊𝙔  🚀
 
 [![Deploy](https://telegra.ph/file/553778b6e1e9866c6bf36.jpg)](https://heroku.com/deploy?template=https://github.com/SRIDHAR2021SIDDHARTH/TANDAV_X_BOT)
 
